@@ -1,0 +1,36 @@
+body{
+
+}
+
+.container{
+    margin: 50px auto;
+    width: 900px;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+
+}
+
+li{
+
+
+    margin:30px;
+    height:320px;
+}
+
+
+img{
+    padding-left:40px;
+    float:left;
+    width:20%;
+}
+
+p{
+    width:60%;
+    float:right;
+    padding:20px;
+    margin-right:35px;
+
+}
